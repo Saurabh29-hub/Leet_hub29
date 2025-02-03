@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0008-string-to-integer-atoi) |
+## Array
+|  |
+| ------- |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 <!---LeetCode Topics End-->
