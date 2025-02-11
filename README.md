@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0008-string-to-integer-atoi) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
 | ------- |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Stack
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
