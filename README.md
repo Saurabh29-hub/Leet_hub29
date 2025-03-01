@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0160-intersection-of-two-linked-lists) |
+| [2551-apply-operations-to-an-array](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Counting
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2551-apply-operations-to-an-array](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Sorting
 |  |
