@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0022-generate-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Array
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
