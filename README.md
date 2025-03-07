@@ -70,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2610-closest-prime-numbers-in-range) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
