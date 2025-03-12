@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0078-subsets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
