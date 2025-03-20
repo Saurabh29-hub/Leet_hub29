@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0022-generate-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0020-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
