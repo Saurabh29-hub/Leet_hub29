@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0022-generate-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2551-apply-operations-to-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2665-minimum-time-to-repair-cars) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3430-count-days-without-meetings) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0022-generate-parentheses) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2665-minimum-time-to-repair-cars](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2665-minimum-time-to-repair-cars) |
+## Greedy
+|  |
+| ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 <!---LeetCode Topics End-->
