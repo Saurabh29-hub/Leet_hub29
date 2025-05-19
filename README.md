@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2551-apply-operations-to-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2665-minimum-time-to-repair-cars) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3321-type-of-triangle](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3430-count-days-without-meetings) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3321-type-of-triangle](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2610-closest-prime-numbers-in-range) |
+| [3321-type-of-triangle](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3321-type-of-triangle) |
 ## Number Theory
 |  |
 | ------- |
