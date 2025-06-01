@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2610-closest-prime-numbers-in-range) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3321-type-of-triangle) |
 ## Number Theory
 |  |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0128-longest-consecutive-sequence) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
