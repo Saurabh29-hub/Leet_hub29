@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2050-count-good-numbers](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2050-count-good-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2610-closest-prime-numbers-in-range) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3321-type-of-triangle) |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
