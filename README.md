@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0160-intersection-of-two-linked-lists) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2551-apply-operations-to-an-array) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Array
 |  |
 | ------- |
@@ -121,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
