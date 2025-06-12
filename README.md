@@ -90,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0090-subsets-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2308-divide-array-into-equal-pairs) |
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0029-divide-two-integers) |
 | [2050-count-good-numbers](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2050-count-good-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2610-closest-prime-numbers-in-range) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3201-distribute-candies-among-children-ii) |
