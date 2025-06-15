@@ -29,7 +29,7 @@ public:
             }
         } else {
             for (int i = 1; i < s.size(); ++i) {
-                if (s[i] != '0' && s[i] != '1') {
+                if (s[i] != '0' && s[i]!='1' ) {
                     toReplaceMin = s[i];
                     break;
                 }
