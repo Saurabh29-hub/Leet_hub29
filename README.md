@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0029-divide-two-integers) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2050-count-good-numbers](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2050-count-good-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2610-closest-prime-numbers-in-range) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3201-distribute-candies-among-children-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Union Find
 |  |
