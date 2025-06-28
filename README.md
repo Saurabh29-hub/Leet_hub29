@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0496-next-greater-element-i) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0128-longest-consecutive-sequence) |
+| [0496-next-greater-element-i](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0496-next-greater-element-i) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2050-count-good-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
