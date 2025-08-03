@@ -1,29 +1,24 @@
-
-
 class Solution {
 public:
-    void solve(int ind, vector<int> &out, vector<vector<int>> &res, vector<int> &nums) {
-        res.push_back(out); // Store the current subset
-
-        for (int i = ind; i < nums.size(); i++) {
-            // Skip duplicates
-            if (i > ind && nums[i] == nums[i - 1]) continue;
-
-            out.push_back(nums[i]);
-            solve(i + 1, out, res, nums);
-            out.pop_back(); // Backtrack
+    void rec(vector<int>& nums, int idx, vector<int>& set, vector<vector<int>>& sets) {
+        if(idx < 0) {
+            sets.push_back(set);
+            return;
         }
+        int temp = nums[idx];
+        set.push_back(temp);
+        rec(nums, idx-1, set, sets);
+        set.pop_back();
+        while(idx>=0 && nums[idx]==temp) idx--;
+        rec(nums, idx, set, sets);
+        return;
     }
-
+    
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        vector<vector<int>> res;
-        vector<int> output;
-        
-        // Sort nums to ensure duplicate elements are adjacent
         sort(nums.begin(), nums.end());
-
-        solve(0, output, res, nums);
-        return res;
+        vector<vector<int>> sets;
+        vector<int> set;
+        rec(nums, nums.size()-1, set, sets);
+        return sets;
     }
 };
-
