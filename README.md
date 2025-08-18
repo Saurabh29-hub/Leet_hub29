@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0046-permutations) |
 | [0057-insert-interval](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0078-subsets) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0035-search-insert-position) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2665-minimum-time-to-repair-cars) |
 ## Greedy
 |  |
