@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0128-longest-consecutive-sequence) |
+| [0801-is-graph-bipartite](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0801-is-graph-bipartite) |
 ## Combinatorics
 |  |
 | ------- |
@@ -159,8 +160,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0094-binary-tree-inorder-traversal) |
+| [0801-is-graph-bipartite](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0094-binary-tree-inorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0801-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
