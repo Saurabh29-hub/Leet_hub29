@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0094-binary-tree-inorder-traversal) |
+| [0207-course-schedule](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
@@ -168,9 +169,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0801-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
