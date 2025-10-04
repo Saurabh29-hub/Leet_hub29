@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0031-next-permutation) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0160-intersection-of-two-linked-lists) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2551-apply-operations-to-an-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0046-permutations) |
 | [0057-insert-interval](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0057-insert-interval) |
