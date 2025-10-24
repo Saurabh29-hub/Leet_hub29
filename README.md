@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0128-longest-consecutive-sequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0417-pacific-atlantic-water-flow) |
+| [0493-reverse-pairs](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0560-subarray-sum-equals-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0035-search-insert-position) |
+| [0493-reverse-pairs](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0493-reverse-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2665-minimum-time-to-repair-cars) |
 ## Greedy
@@ -193,4 +195,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0417-pacific-atlantic-water-flow) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
